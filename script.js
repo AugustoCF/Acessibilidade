@@ -57,36 +57,37 @@ function renderHomePage() {
 // Função para renderizar a lista de palavras
 function renderWordList(words) {
     wordList.innerHTML = '';
-    
+
     if (words.length === 0) {
         wordList.innerHTML = '<div class="word-item">Nenhuma palavra encontrada</div>';
         return;
     }
-    
+
     words.forEach(item => {
         const wordItem = document.createElement('div');
         wordItem.className = 'word-item';
+        // Adiciona todos os ícones dos meanings ao lado do título
+
         wordItem.innerHTML = `
-            <i class="${item.icon}"></i>
             <span>${item.word}</span>
         `;
-        
+
         wordItem.addEventListener('click', () => {
             // Remover classe ativa de todos os itens
             document.querySelectorAll('.word-item').forEach(el => {
                 el.classList.remove('active');
             });
-            
+
             // Adicionar classe ativa ao item clicado
             wordItem.classList.add('active');
-            
+
             // Renderizar os detalhes da palavra
             renderWordDetail(item);
         });
-        
+
         wordList.appendChild(wordItem);
     });
-    
+
     // Selecionar a primeira palavra por padrão
     if (words.length > 0) {
         wordList.querySelector('.word-item').classList.add('active');
@@ -98,25 +99,22 @@ function renderWordList(words) {
 function renderWordDetail(word) {
     const meaningsHtml = word.meanings.map(meaning => `
         <div class="meaning-item">
-            <div class="meaning-image">
-                <video controls width="100%">
-                    <source src="${meaning.video}" type="video/mp4">
-                    Seu navegador não suporta o elemento de vídeo.
-                </video>
+            <div class="meaning-icon">
+                <i class="${meaning.icon}"></i>
             </div>
-            <div class="meaning-content">
-                <div class="meaning-text">Significado: <br> ${meaning.definition}</div>
-                <div class="example">Exemplo: ${meaning.example}</div>
-            </div>
+            <div class="meaning-text">Significado: <br> ${meaning.definition}</div>
+            <div class="example">Exemplo: ${meaning.example}</div>
         </div>
     `).join('');
-    
     wordDetail.innerHTML = `
         <div class="word-header">
-            <div class="word-icon">
-                <i class="${word.icon}"></i>
-            </div>
             <h2 class="word-title">${word.word}</h2>
+        </div>
+        <div class="meaning-video">
+            <video controls width="100%">
+                <source src="${word.video}" type="video/mp4">
+                Seu navegador não suporta o elemento de vídeo.
+            </video>
         </div>
         <div class="meanings-container">
             ${meaningsHtml}
@@ -127,7 +125,7 @@ function renderWordDetail(word) {
 // Função para filtrar palavras
 function filterWords() {
     const searchTerm = searchInput.value.toLowerCase();
-    const filteredWords = dictionaryData.filter(item => 
+    const filteredWords = dictionaryData.filter(item =>
         item.word.toLowerCase().includes(searchTerm)
     );
     renderWordList(filteredWords);
@@ -157,7 +155,7 @@ homeButton.addEventListener('click', () => {
     document.querySelectorAll('.word-item').forEach(el => {
         el.classList.remove('active');
     });
-    
+
     // Renderizar página inicial
     renderHomePage();
 });

@@ -1,407 +1,383 @@
 [
-    {
-        "word": "Barra",
-        "icon": "fas fa-slash",
-        "meanings": [
-            {
-                "definition": "Contexto social ou situação complexa que envolve pressão ou dificuldade",
-                "example": "A barra da crise econômica está afetando todos os pequenos negócios.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Objeto rígido e alongado, geralmente metálico, usado como matéria-prima ou ferramenta",
-                "example": "Os joalheiros fundiram uma barra de prata para moldar as alianças.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Elemento gráfico digital que organiza informações ou funções em interfaces",
-                "example": "Clique no ícone de impressora na barra de ferramentas do seu navegador.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Banco",
-        "icon": "fas fa-university",
-        "meanings": [
-            {
-                "definition": "Instituição financeira que gerencia transações monetárias, empréstimos e investimentos",
-                "example": "O banco liberou um crédito especial para agricultores da região.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Estrutura física alongada para acomodação coletiva em espaços públicos",
-                "example": "Os idosos descansavam no banco da praça enquanto observavam as crianças.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Reserva estratégica de recursos biológicos ou genéticos para preservação",
-                "example": "O banco de sementes do Ártico garante a biodiversidade agrícola futura.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Planta",
-        "icon": "fas fa-seedling",
-        "meanings": [
-            {
-                "definition": "Organismo vivo do reino vegetal, enraizado e com capacidade fotossintética",
-                "example": "A planta suculenta sobrevive em ambientes áridos com pouca água.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Representação técnica bidimensional da disposição espacial de uma construção",
-                "example": "A planta baixa mostrava onde ficariam os banheiros e a cozinha.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Fábrica ou unidade industrial onde ocorre produção em larga escala",
-                "example": "A planta automotiva de São Paulo exporta veículos para 20 países.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Quadro",
-        "icon": "fas fa-border-all",
-        "meanings": [
-            {
-                "definition": "Obra artística pictórica emoldurada, geralmente exposta em galerias",
-                "example": "O quadro expressionista de Portinari foi leiloado por milhões.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Conjunto organizado de dados ou informações visuais para análise comparativa",
-                "example": "O quadro estatístico revelou o aumento da violência urbana.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Estrutura rígida que sustenta componentes mecânicos em veículos",
-                "example": "O quadro da bicicleta de carbono é mais leve que o de alumínio.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Capital",
-        "icon": "fas fa-landmark",
-        "meanings": [
-            {
-                "definition": "Cidade-sede administrativa de um território político (país, estado)",
-                "example": "Lisboa é a capital mais ocidental da Europa continental.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Recursos financeiros ou patrimoniais investidos em atividades produtivas",
-                "example": "Eles injetaram capital inicial para abrir a startup de tecnologia.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Letra maiúscula utilizada no início de frases ou nomes próprios",
-                "example": "Escreva 'Brasil' com B capital no início do documento oficial.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Língua",
-        "icon": "fas fa-language",
-        "meanings": [
-            {
-                "definition": "Órgão muscular móvel na cavidade bucal, essencial para fala e degustação",
-                "example": "O médico pediu para ele mostrar a língua durante o exame.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Sistema de comunicação verbal estruturado, próprio de uma comunidade",
-                "example": "A língua iorubá é amplamente estudada na diáspora africana.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Formação geográfica alongada que avança sobre um corpo d'água",
-                "example": "A língua de areia em Maragogi forma piscinas naturais no mar.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Encontrar",
-        "icon": "fas fa-handshake",
-        "meanings": [
-            {
-                "definition": "Localizar algo ou alguém após busca deliberada ou acidental",
-                "example": "Conseguimos encontrar as chaves perdidas atrás do sofá.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Estabelecer conexão interpessoal através de reunião combinada",
-                "example": "Vamos nos encontrar no café depois do trabalho para conversar.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Chegar a uma conclusão ou solução mediante reflexão ou experimentação",
-                "example": "A equipe encontrou uma forma inovadora de reciclar plásticos.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Acesso",
-        "icon": "fas fa-key",
-        "meanings": [
-            {
-                "definition": "Entrada física ou virtual a locais restritos ou sistemas digitais",
-                "example": "O acesso ao laboratório é controlado por reconhecimento facial.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Episódio súbito e intenso de manifestação física ou emocional",
-                "example": "Teve um acesso de tosse durante a apresentação por causa da poeira.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Direito ou permissão para utilização de serviços ou informações",
-                "example": "Pacientes com deficiência têm acesso prioritário aos tratamentos.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Conselho",
-        "icon": "fas fa-users",
-        "meanings": [
-            {
-                "definition": "Recomendação baseada em experiência para orientar decisões",
-                "example": "Seguindo o conselho da avó, ela aplicou mel na ferida para cicatrizar.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Órgão colegiado com função deliberativa ou fiscalizadora em instituições",
-                "example": "O Conselho Tutelar interveio para proteger a criança em risco.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Grupo consultivo de especialistas que assessora lideranças",
-                "example": "O conselho científico da OMS emitiu alerta sobre a nova variante.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Cabo",
-        "icon": "fas fa-route",
-        "meanings": [
-            {
-                "definition": "Corda grossa de fibras entrelaçadas, usada em amarrações náuticas",
-                "example": "Os marinheiros enrolaram o cabo no mastro para prender a vela.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Ponta de terra que avança sobre o oceano (acidente geográfico)",
-                "example": "O Cabo da Boa Esperança era temido pelos navegadores antigos.",
-                "video": "videos/banco.mp4"
-            },
-            {
-                "definition": "Posto hierárquico nas forças armadas, abaixo de sargento",
-                "example": "Ela foi promovida a cabo após dois anos de excelente serviço.",
-                "video": "videos/banco.mp4"
-            }
-        ]
-    },
-    {
-        "word": "Vela",
-        "icon": "fas fa-sailboat",
-        "meanings": [
-          {
-            "definition": "Objeto cilíndrico de cera ou parafina com pavio, utilizado para iluminação",
-            "example": "Na festa de anos, soprou as velas do bolo fazendo um pedido.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Peça de tecido que capta vento para propulsionar embarcações",
-            "example": "Barcos a vela são ecologicamente sustentáveis por não usarem combustível.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Componente do sistema de ignição em motores de combustão",
-            "example": "O mecânico trocou as velas do carro para melhorar o desempenho.",
-            "video": "videos/banco.mp4"
-          }
-        ]
+  {
+    "word": "Barra",
+    "video": "videos/banco.mp4",
+    "meanings": [
+      {
+        "definition": "Situação difícil ou complicada",
+        "example": "Está difícil arrumar emprego, a barra está pesada.",
+        "icon": "fa-solid fa-triangle-exclamation"
       },
       {
-        "word": "Gato",
-        "icon": "fas fa-cat",
-        "meanings": [
-          {
-            "definition": "Animal doméstico da família Felidae, popular como pet",
-            "example": "Gatos são conhecidos por sua independência e habilidades de caça.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Ligação elétrica clandestina que desvia energia",
-            "example": "A fiscalização encontrou um gato na rede que causava sobrecarga.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Pessoa fisicamente atraente (uso coloquial)",
-            "example": "Todos comentavam que o novo ator era um verdadeiro gato.",
-            "video": "videos/banco.mp4"
-          }
-        ]
+        "definition": "Objeto comprido e duro, geralmente de metal",
+        "example": "O joalheiro derreteu uma barra de prata para fazer alianças.",
+        "icon": "fa-solid fa-grip-lines"
       },
       {
-        "word": "Cabeça",
-        "icon": "fas fa-brain",
-        "meanings": [
-          {
-            "definition": "Parte superior do corpo humano que contém o cérebro e órgãos sensoriais",
-            "example": "A cabeça humana abriga aproximadamente 86 bilhões de neurônios.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Líder ou pessoa que comanda um grupo/organização",
-            "example": "Como cabeça do departamento, ela aprovava todas as contratações.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Pena",
-        "icon": "fas fa-feather",
-        "meanings": [
-          {
-            "definition": "Estrutura queratinosa que recobre a pele das aves",
-            "example": "Colecionadores pagam fortunas por penas raras de aves exóticas.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Sentimento de compaixão ou dó diante do sofrimento alheio",
-            "example": "Senti pena dos animais abandonados no frio intenso.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Sanção jurídica imposta por infrações legais",
-            "example": "A pena por roubo qualificado pode chegar a 10 anos de reclusão.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Cura",
-        "icon": "fas fa-heartbeat",
-        "meanings": [
-          {
-            "definition": "Processo de restauração da saúde ou eliminação de doenças",
-            "example": "Cientistas buscam a cura para o câncer há décadas.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Preservação de alimentos através de salga, secagem ou defumação",
-            "example": "A cura da carne seca leva aproximadamente 15 dias em condições controladas.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Luz",
-        "icon": "fas fa-lightbulb",
-        "meanings": [
-          {
-            "definition": "Radiação eletromagnética visível ao olho humano",
-            "example": "A luz do farol guiava os navios no litoral rochoso.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Fonte de energia elétrica ou iluminação artificial",
-            "example": "A luz caiu durante o temporal e ficamos horas no escuro.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Figura simbólica de conhecimento, sabedoria ou inspiração",
-            "example": "Seu conselho foi uma luz nos momentos mais difíceis da minha vida.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Tiro",
-        "icon": "fas fa-bullseye",
-        "meanings": [
-          {
-            "definition": "Disparo de arma de fogo ou projétil",
-            "example": "O tiro de advertência foi ouvido a quilômetros de distância.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Ida rápida para resolver algo (expressão coloquial)",
-            "example": "Ele foi num tiro rápido ao supermercado comprar pão.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Abertura no vestuário para passagem de cinto ou acessórios",
-            "example": "A calça tem tiros laterais que permitem ajuste personalizado.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Chave",
-        "icon": "fas fa-key",
-        "meanings": [
-          {
-            "definition": "Instrumento metálico para abrir/fechar fechaduras",
-            "example": "Perdi a chave do carro durante o passeio no parque.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Elemento essencial para solução de problemas ou compreensão",
-            "example": "A pista foi a chave para desvendar o mistério do crime.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Diagrama organizacional em competições esportivas",
-            "example": "O Brasil lidera a chave B do torneio internacional de vôlei.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Manga",
-        "icon": "fas fa-tshirt",
-        "meanings": [
-          {
-            "definition": "Fruta tropical doce e suculenta, originária da Ásia",
-            "example": "A manga palmer estava perfeita para fazer suco natural.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Parte da vestimenta que cobre o braço",
-            "example": "A manga da camiseta rasgou-se no arame farpado.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Tubo flexível para condução de líquidos",
-            "example": "Bombeiros desenrolaram mangueiras para combater o incêndio.",
-            "video": "videos/banco.mp4"
-          }
-        ]
-      },
-      {
-        "word": "Copo",
-        "icon": "fas fa-glass-whiskey",
-        "meanings": [
-          {
-            "definition": "Recipiente para líquidos, geralmente de vidro ou plástico",
-            "example": "Encheu o copo de água até a borda antes de beber.",
-            "video": "videos/banco.mp4"
-          },
-          {
-            "definition": "Medida culinária equivalente a 240ml",
-            "example": "Adicione dois copos de farinha de trigo na massa do bolo.",
-            "video": "videos/banco.mp4"
-          }
-        ]
+        "definition": "Linha ou área em programas que mostra opções ou informações",
+        "example": "Clique na impressora na barra de ferramentas do navegador.",
+        "icon": "fa-solid fa-bars"
       }
+    ]
+  },
+  {
+    "word": "Banco",
+    "meanings": [
+      {
+        "definition": "Lugar onde se guarda e movimenta dinheiro",
+        "example": "O banco liberou um empréstimo para os agricultores.",
+        "icon": "fa-solid fa-university"
+      },
+      {
+        "definition": "Assento comprido para várias pessoas",
+        "example": "Os idosos descansavam no banco da praça.",
+        "icon": "fa-solid fa-couch"
+      },
+      {
+        "definition": "Sistema para guardar e organizar dados no computador",
+        "example": "O banco de dados da empresa guarda informações dos clientes.",
+        "icon": "fa-solid fa-database"
+      }
+    ]
+  },
+  {
+    "word": "Planta",
+    "meanings": [
+      {
+        "definition": "Ser vivo do reino vegetal, com raízes e folhas",
+        "example": "A planta suculenta vive bem com pouca água.",
+        "icon": "fa-solid fa-leaf"
+      },
+      {
+        "definition": "Desenho que mostra como será uma construção",
+        "example": "A planta baixa mostra onde ficam os banheiros e a cozinha.",
+        "icon": "fa-solid fa-ruler-combined"
+      },
+      {
+        "definition": "Fábrica ou lugar onde se produz algo em grande quantidade",
+        "example": "A planta automotiva de São Paulo exporta carros.",
+        "icon": "fa-solid fa-industry"
+      }
+    ]
+  },
+  {
+    "word": "Quadro",
+    "meanings": [
+      {
+        "definition": "Pintura emoldurada para decoração",
+        "example": "O quadro de Portinari foi vendido por muito dinheiro.",
+        "icon": "fa-solid fa-image"
+      },
+      {
+        "definition": "Tabela com dados ou informações",
+        "example": "O quadro mostrou o aumento da violência.",
+        "icon": "fa-solid fa-table"
+      },
+      {
+        "definition": "Estrutura que sustenta partes de veículos",
+        "example": "O quadro da bicicleta de carbono é mais leve.",
+        "icon": "fa-solid fa-bicycle"
+      }
+    ]
+  },
+  {
+    "word": "Capital",
+    "meanings": [
+      {
+        "definition": "Cidade principal de um estado ou país",
+        "example": "Lisboa é a capital de Portugal.",
+        "icon": "fa-solid fa-city"
+      },
+      {
+        "definition": "Dinheiro ou bens usados para investir",
+        "example": "Eles colocaram capital para abrir a empresa.",
+        "icon": "fa-solid fa-coins"
+      }
+    ]
+  },
+  {
+    "word": "Língua",
+    "meanings": [
+      {
+        "definition": "Modo de se expressar, jeito de falar",
+        "example": "Ele tem uma língua afiada e faz muitos comentários.",
+        "icon": "fa-solid fa-comment"
+      },
+      {
+        "definition": "Forma de comunicação falada de um povo",
+        "example": "A língua iorubá é estudada em vários países.",
+        "icon": "fa-solid fa-language"
+      },
+      {
+        "definition": "Faixa de terra que entra no mar ou rio",
+        "example": "A língua de areia em Maragogi forma piscinas naturais.",
+        "icon": "fa-solid fa-water"
+      },
+      {
+        "definition": "Órgão muscular na boca usado para falar e sentir sabores",
+        "example": "A língua ajuda a perceber o gosto dos alimentos.",
+        "icon": "fa-solid fa-tongue"
+      }
+    ]
+  },
+  {
+    "word": "Encontrar",
+    "meanings": [
+      {
+        "definition": "Achar algo ou alguém",
+        "example": "Achamos as chaves atrás do sofá.",
+        "icon": "fa-solid fa-magnifying-glass"
+      },
+      {
+        "definition": "Marcar de ver alguém",
+        "example": "Vamos nos encontrar no café depois do trabalho.",
+        "icon": "fa-solid fa-users"
+      },
+      {
+        "definition": "Descobrir uma solução ou ideia",
+        "example": "A equipe encontrou uma nova forma de reciclar plásticos.",
+        "icon": "fa-solid fa-lightbulb"
+      }
+    ]
+  },
+  {
+    "word": "Acesso",
+    "meanings": [
+      {
+        "definition": "Entrada em lugares ou sistemas",
+        "example": "O acesso ao laboratório é por reconhecimento facial.",
+        "icon": "fa-solid fa-door-open"
+      },
+      {
+        "definition": "Ataque rápido de emoção ou reação",
+        "example": "Teve um acesso de tosse durante a apresentação.",
+        "icon": "fa-solid fa-bolt"
+      },
+      {
+        "definition": "Direito de usar serviços ou informações",
+        "example": "Pessoas com deficiência têm acesso prioritário.",
+        "icon": "fa-solid fa-key"
+      }
+    ]
+  },
+  {
+    "word": "Conselho",
+    "meanings": [
+      {
+        "definition": "Sugestão para ajudar alguém a decidir",
+        "example": "Seguiu o conselho da avó e passou mel na ferida.",
+        "icon": "fa-solid fa-comment-dots"
+      },
+      {
+        "definition": "Grupo que toma decisões em instituições",
+        "example": "O Conselho Tutelar protegeu a criança.",
+        "icon": "fa-solid fa-users-gear"
+      },
+      {
+        "definition": "Grupo de especialistas que orienta líderes",
+        "example": "O conselho científico da OMS alertou sobre a nova variante.",
+        "icon": "fa-solid fa-user-tie"
+      }
+    ]
+  },
+  {
+    "word": "Cabo",
+    "meanings": [
+      {
+        "definition": "Corda grossa usada em barcos",
+        "example": "Os marinheiros amarraram o cabo no mastro.",
+        "icon": "fa-solid fa-anchor"
+      },
+      {
+        "definition": "Ponta de terra que entra no mar",
+        "example": "O Cabo da Boa Esperança era temido pelos navegadores.",
+        "icon": "fa-solid fa-mountain"
+      },
+      {
+        "definition": "Cargo nas forças armadas, abaixo de sargento",
+        "example": "Ela foi promovida a cabo depois de dois anos.",
+        "icon": "fa-solid fa-user-shield"
+      }
+    ]
+  },
+  {
+    "word": "Vela",
+    "meanings": [
+      {
+        "definition": "Cilindro de cera com pavio para iluminar",
+        "example": "Soprou as velas do bolo de aniversário.",
+        "icon": "fa-solid fa-fire"
+      },
+      {
+        "definition": "Tecido que pega vento para mover barcos",
+        "example": "Barcos a vela não usam combustível.",
+        "icon": "fa-solid fa-sailboat"
+      },
+      {
+        "definition": "Peça do motor que ajuda na ignição",
+        "example": "O mecânico trocou as velas do carro.",
+        "icon": "fa-solid fa-car-battery"
+      }
+    ]
+  },
+  {
+    "word": "Gato",
+    "meanings": [
+      {
+        "definition": "Animal doméstico, popular como pet",
+        "example": "Gatos são independentes e caçam bem.",
+        "icon": "fa-solid fa-cat"
+      },
+      {
+        "definition": "Ligação elétrica feita de forma ilegal",
+        "example": "A fiscalização encontrou um gato na rede elétrica.",
+        "icon": "fa-solid fa-bolt"
+      },
+      {
+        "definition": "Pessoa bonita (gíria)",
+        "example": "Dizem que o novo ator é um gato.",
+        "icon": "fa-solid fa-user"
+      }
+    ]
+  },
+  {
+    "word": "Cabeça",
+    "meanings": [
+      {
+        "definition": "Parte do corpo onde fica o cérebro",
+        "example": "A cabeça humana tem bilhões de neurônios.",
+        "icon": "fa-solid fa-user"
+      },
+      {
+        "definition": "Pessoa que lidera um grupo",
+        "example": "Como cabeça do setor, ela aprovava as contratações.",
+        "icon": "fa-solid fa-chess-king"
+      }
+    ]
+  },
+  {
+    "word": "Pena",
+    "meanings": [
+      {
+        "definition": "Parte que cobre o corpo das aves",
+        "example": "Colecionadores pagam caro por penas raras.",
+        "icon": "fa-solid fa-feather"
+      },
+      {
+        "definition": "Sentimento de dó ou tristeza por alguém",
+        "example": "Senti pena dos animais abandonados.",
+        "icon": "fa-solid fa-face-sad-tear"
+      },
+      {
+        "definition": "Castigo dado por lei",
+        "example": "A pena por roubo pode ser de 10 anos.",
+        "icon": "fa-solid fa-gavel"
+      }
+    ]
+  },
+  {
+    "word": "Cura",
+    "meanings": [
+      {
+        "definition": "Fim de uma doença, volta da saúde",
+        "example": "Cientistas buscam a cura do câncer.",
+        "icon": "fa-solid fa-notes-medical"
+      },
+      {
+        "definition": "Processo para conservar alimentos, como secar ou salgar",
+        "example": "A cura da carne seca leva cerca de 15 dias.",
+        "icon": "fa-solid fa-bacon"
+      }
+    ]
+  },
+  {
+    "word": "Luz",
+    "meanings": [
+      {
+        "definition": "Radiação que podemos ver, clareia o ambiente",
+        "example": "A luz do farol guiava os navios.",
+        "icon": "fa-solid fa-lightbulb"
+      },
+      {
+        "definition": "Energia elétrica ou iluminação artificial",
+        "example": "A luz acabou durante o temporal.",
+        "icon": "fa-solid fa-bolt"
+      },
+      {
+        "definition": "Símbolo de conhecimento ou inspiração",
+        "example": "O conselho foi uma luz nos momentos difíceis.",
+        "icon": "fa-solid fa-star"
+      }
+    ]
+  },
+  {
+    "word": "Tiro",
+    "meanings": [
+      {
+        "definition": "Disparo de arma de fogo",
+        "example": "O tiro foi ouvido de longe.",
+        "icon": "fa-solid fa-gun"
+      },
+      {
+        "definition": "Ida rápida para resolver algo (gíria)",
+        "example": "Ele foi num tiro ao mercado comprar pão.",
+        "icon": "fa-solid fa-person-running"
+      }
+    ]
+  },
+  {
+    "word": "Chave",
+    "meanings": [
+      {
+        "definition": "Objeto para abrir ou fechar fechaduras",
+        "example": "Perdi a chave do carro no parque.",
+        "icon": "fa-solid fa-key"
+      },
+      {
+        "definition": "Coisa importante para resolver um problema",
+        "example": "A pista foi a chave para resolver o crime.",
+        "icon": "fa-solid fa-lightbulb"
+      },
+      {
+        "definition": "Tabela de jogos em campeonatos",
+        "example": "O Brasil lidera a chave B do torneio.",
+        "icon": "fa-solid fa-sitemap"
+      }
+    ]
+  },
+  {
+    "word": "Manga",
+    "meanings": [
+      {
+        "definition": "Fruta doce e suculenta",
+        "example": "A manga estava ótima para suco.",
+        "icon": "fa-solid fa-apple-whole"
+      },
+      {
+        "definition": "Parte da roupa que cobre o braço",
+        "example": "A manga da camiseta rasgou.",
+        "icon": "fa-solid fa-shirt"
+      },
+      {
+        "definition": "Tubo flexível para passar líquidos",
+        "example": "Bombeiros usaram mangueiras para apagar o fogo.",
+        "icon": "fa-solid fa-water"
+      }
+    ]
+  },
+  {
+    "word": "Copo",
+    "meanings": [
+      {
+        "definition": "Recipiente para beber líquidos",
+        "example": "Encheu o copo de água antes de beber.",
+        "icon": "fa-solid fa-glass-water"
+      },
+      {
+        "definition": "Medida de 240ml usada em receitas",
+        "example": "Coloque dois copos de farinha na massa.",
+        "icon": "fa-solid fa-bowl-rice"
+      }
+    ]
+  }
 ]

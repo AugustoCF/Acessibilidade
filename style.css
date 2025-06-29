@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     height: 100%;
 }
 
@@ -33,6 +34,7 @@ header {
     padding: 20px 30px;
     display: flex;
     justify-content: space-between;
+    height: 150px;
     align-items: center;
     border-bottom: 3px solid #3498db;
 }
@@ -95,8 +97,10 @@ header {
 
 .main-content {
     display: flex;
-    flex: 1; /* Ocupa todo o espaço disponível */
-    min-height: 0; /* Corrige o problema de overflow no Flexbox */
+    /* Ocupa todo o espaço disponível */
+    min-height: 0;
+    height: calc(100vh - 200px);
+    /* Corrige o problema de overflow no Flexbox */
 }
 
 .home-button {
@@ -240,11 +244,13 @@ header {
     width: 300px;
     background: #f8f9fa;
     border-right: 1px solid #e0e0e0;
-    height: 790px;
     overflow-y: auto;
     padding: 20px 0;
+    height: calc(100vh - 200px);
+    /* Ajusta a altura para ocupar toda a tela menos o header */
     display: flex;
     flex-direction: column;
+    /* Faz a lista ocupar toda a altura disponível do container pai */
 }
 
 .word-item {
@@ -314,7 +320,8 @@ header {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 30px;
-    flex: 1; /* Permite que o conteúdo cresça */
+    flex: 1;
+    /* Permite que o conteúdo cresça */
 }
 
 .meaning-item {
@@ -333,7 +340,8 @@ header {
 }
 
 .meaning-image {
-    height: auto; /* Alterado de height fixo */
+    height: auto;
+    /* Alterado de height fixo */
     background: #276099;
     display: flex;
     align-items: center;
@@ -347,11 +355,14 @@ header {
     width: 100%;
     height: auto;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .meaning-content {
     padding: 25px;
-    flex: 1; /* Ocupa todo o espaço restante */
+    flex: 1;
+    /* Ocupa todo o espaço restante */
     display: flex;
     flex-direction: column;
 }
@@ -359,7 +370,7 @@ header {
 .meaning-icon {
     font-size: 1.8rem;
     color: #3498db;
-    margin-bottom: 15px;
+    margin: 15px;
 }
 
 .meaning-text {
@@ -367,16 +378,20 @@ header {
     margin-bottom: 5px;
     font-weight: 600;
     color: #2c3e50;
-    flex: 1; /* Permite que o texto ocupe o espaço disponível */
+    flex: 1;
+    margin: 15px;
+    /* Permite que o texto ocupe o espaço disponível */
 }
 
 .example {
     background: #cde7fa;
-    padding: 10px;
+    padding: 20px;
+    font-size: large;
     color: #1f2b36;
     margin-top: 10px;
     border-radius: 8px;
-    flex-shrink: 0; /* Mantém altura fixa */
+    flex-shrink: 0;
+    /* Mantém altura fixa */
 }
 
 .empty-state {
@@ -387,7 +402,8 @@ header {
     text-align: center;
     height: 100%;
     padding: 50px;
-    flex: 1; /* Ocupa todo o espaço disponível */
+    flex: 1;
+    /* Ocupa todo o espaço disponível */
 }
 
 .empty-state i {
@@ -419,20 +435,20 @@ header {
     .main-content {
         flex-direction: column;
     }
-    
+
     .word-list {
         width: 100%;
         border-right: none;
         border-bottom: 1px solid #e0e0e0;
         max-height: 300px;
     }
-    
+
     header {
         flex-direction: column;
         text-align: center;
         gap: 20px;
     }
-    
+
     .search-container {
         max-width: 100%;
     }
@@ -450,11 +466,11 @@ header {
         text-align: center;
         gap: 15px;
     }
-    
+
     .word-title {
         font-size: 2rem;
     }
-    
+
     .meaning-image {
         height: 150px;
         font-size: 4rem;
@@ -467,5 +483,6 @@ footer {
     background: #2c3e50;
     color: white;
     font-size: 1.1rem;
+    height: 50px;
     margin-top: auto;
 }
