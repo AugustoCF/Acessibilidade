@@ -486,3 +486,23 @@ footer {
     height: 50px;
     margin-top: auto;
 }
+
+/* Classe de foco com alto contraste para acessibilidade */
+/* Alto contraste para foco visível em todos os elementos navegáveis */
+.focus-visible,
+:focus-visible,
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible,
+.word-item:focus-visible,
+.home-button:focus-visible,
+.meaning-item:focus-visible,
+.feature-card:focus-visible {
+    outline: 3px solid #000 !important;
+    outline-offset: 2px !important;
+    background-color: #3498db !important;
+    color: #000 !important;
+    /* Ajuste conforme necessário para contraste */
+}
