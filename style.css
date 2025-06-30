@@ -99,7 +99,7 @@ header {
     display: flex;
     /* Ocupa todo o espaço disponível */
     min-height: 0;
-    height: calc(100vh - 200px);
+    height: calc(100vh - 250px);
     /* Corrige o problema de overflow no Flexbox */
 }
 
@@ -128,7 +128,7 @@ header {
 
 .definition-home {
     max-width: 10000px;
-    margin: 10 auto;
+    margin: auto;
 }
 
 .welcome-message h2 {
@@ -445,8 +445,9 @@ header {
 
     header {
         flex-direction: column;
-        text-align: center;
-        gap: 20px;
+        text-align: left;
+        gap: 10px;
+        height: 200px;
     }
 
     .search-container {
